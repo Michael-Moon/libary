@@ -1,0 +1,11 @@
+com\libraryapi\service\impl\BookServiceImpl.class
+com\libraryapi\LibaryApplication.class
+com\libraryapi\model\entity\Book.class
+com\libraryapi\model\repository\BookRepository.class
+com\libraryapi\api\dto\BookDTO.class
+com\libraryapi\model\entity\Book$BookBuilder.class
+com\libraryapi\api\resource\BookController.class
+com\libraryapi\exception\BusinesException.class
+com\libraryapi\api\dto\BookDTO$BookDTOBuilder.class
+com\libraryapi\service\BookService.class
+com\libraryapi\exception\ApiErrors.class
